@@ -1,0 +1,6 @@
+drop
+drop
+4right
+clockwise
+clockwise
+
